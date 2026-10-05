@@ -4,8 +4,8 @@ Barra de búsqueda de Google estilo Android para el escritorio de Windows, en **
 
 ## Funciones
 - Clic en *Buscar en Google...* → escribes y **Enter** busca en Google.
-- 🎤 **Micrófono** → abre Google en Chrome y activa la búsqueda por voz automáticamente.
-- 📷 **Lens** → abre Google Lens.
+- **Micrófono** → abre Google en Chrome y activa la búsqueda por voz automáticamente.
+- **Lens** → abre Google Lens.
 - Logo oficial de la G descargado directamente de Google.
 - Arrastrable, se queda en el escritorio y no tapa ventanas.
 
